@@ -1,0 +1,22 @@
+.jumbotron {
+  background-color: #e9ecef;
+  padding: 2rem 1rem;
+  border-radius: 0.3rem;
+  margin-bottom: 2rem;
+}
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  color: #343a40;
+}
+
+.footer {
+  background-color: #f8f9fa;
+  padding: 1rem;
+  text-align: center;
+  margin-top: 2rem;
+  border-top: 1px solid #e9ecef;
+}
